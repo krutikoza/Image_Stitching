@@ -1,0 +1,13 @@
+## Command for part 1
+./a2 part1 10 part1-images/*.jpg output.txt
+
+
+## Commands for part 2 
+./a2 part2 4 part2-images/book1.jpg part2-images/book2.jpg part2-outputs/book_output_n4.jpg  318 256 141 131 534 372 480 159 316 670 493 630 73 473 64 601
+./a2 part2 3 part2-images/book1.jpg part2-images/book2.jpg part2-outputs/book_output_n3.jpg 318 256 141 131 534 372 480 159 316 670 493 630
+./a2 part2 2 part2-images/book1.jpg part2-images/book2.jpg part2-outputs/book_output_n2.jpg 318 256 141 131 534 372 480 159 
+./a2 part2 1 part2-images/book1.jpg part2-images/book2.jpg part2-outputs/book_output_n1.jpg 318 256 141 131 
+
+# command for part2 for lincoln images
+./a2 part2 1 part2-images/book1.jpg part2-images/lincoln.jpg part2-outputs/lincoln_output.jpg 318 256 141 131 
+
